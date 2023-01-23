@@ -1,4 +1,4 @@
-module github.com/keikoproj/kubedog
+module github.com/estela-ramirez/kubedog
 
 go 1.19
 
